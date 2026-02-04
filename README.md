@@ -105,10 +105,12 @@ The program takes a number as input from the user and displays the calculated re
 
 > Enter a number when prompted
 
-> Sample Input
+Sample Input:
+
 Enter a number: 9
 
-> Sample Output
+Sample Output
+
 Square root of 9 is : 3.0
 Logarithm of 9 is : 2.1972245773362196
 Sine of 9 is : 0.4121184852417566
