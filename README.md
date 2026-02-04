@@ -103,7 +103,7 @@ The program takes a number as input from the user and displays the calculated re
 .python filename.py
 
 
-.Enter a number when prompted
+> Enter a number when prompted
 
 > Sample Input
 Enter a number: 9
