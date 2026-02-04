@@ -65,3 +65,62 @@ This program works for positive integers. Handling of zero or negative numbers c
 
 Task 2: Using the Math Module for Calculations
 
+
+> Description
+
+This Python program demonstrates how to use the built-in math module to perform common mathematical calculations such as square root, logarithm, and sine of a given number.
+
+The program takes a number as input from the user and displays the calculated results.
+
+> Operations Performed
+
+- The program calculates:
+
+.Square Root using math.sqrt()
+
+.Logarithm (natural log) using math.log()
+
+.Sine using math.sin()
+
+> How the Program Works
+
+.Imports the math module
+
+.Accepts an integer input from the user
+
+.Applies mathematical functions on the input
+
+.Prints the results in a readable format
+
+> How to Run the Program
+
+.Ensure Python is installed on your system
+
+.Clone the repository or copy the code file
+
+.Run the program using:
+
+.python filename.py
+
+
+.Enter a number when prompted
+
+> Sample Input
+Enter a number: 9
+
+> Sample Output
+Square root of 9 is : 3.0
+Logarithm of 9 is : 2.1972245773362196
+Sine of 9 is : 0.4121184852417566
+
+> Concepts Used
+
+.Python math module
+
+.Mathematical functions
+
+.User input
+
+.Formatted output
+
+
