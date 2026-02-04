@@ -39,11 +39,11 @@ Factorial of 5 = 5 × 4 × 3 × 2 × 1 = 120
 
 > Enter a number when prompted
 
- Sample Input
-Enter the number: 5
+- Sample Input
+. Enter the number: 5
 
- Sample Output
-120
+- Sample Output
+. 120
 
 > Concepts Used
 
